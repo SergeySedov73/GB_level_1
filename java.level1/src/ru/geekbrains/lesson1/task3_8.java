@@ -1,6 +1,6 @@
 package ru.geekbrains.lesson1;
 
-public class task3
+public class task3_8
 {// 3 Написать метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат,где a, b, c, d – входные параметры этого метода
     static int calculation(int a, int b, int c, int d)
     {
@@ -39,10 +39,6 @@ public class task3
         else System.out.println("год не високосный");
 }
 
-
-
-
-
     public static void main(String[] args)
     {
       System.out.println(calculation (1,-2,3,4));
@@ -56,7 +52,7 @@ public class task3
 
       printMyName ("Сергей");
 
-      verificationYear (300);
+      verificationYear (2020);
 
 
     }
