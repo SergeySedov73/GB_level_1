@@ -52,7 +52,7 @@ public class task3_8
 
       printMyName ("Сергей");
 
-      verificationYear (2020);
+      verificationYear (400);
 
 
     }
